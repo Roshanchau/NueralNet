@@ -1,2 +1,2 @@
 # NueralNet
-Implementation of neural network using typescript.
+Implementation of neural network using javascript.
